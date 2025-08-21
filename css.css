@@ -6,7 +6,7 @@ padding: 5px;
 
 button {
     padding: 10px 20px;
-    background-color: #007BFF;
+    background-color: #f0f0f0;
     border: none;
     color: white;
     font-size: 16px;
@@ -15,4 +15,5 @@ button {
 button:hover {
 background-color: #e056b3;
     }
+
 }
